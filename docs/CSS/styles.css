@@ -15,10 +15,16 @@ h2 {
   font-family: 'Jost', sans-serif;
 }
 
+/* Containers */
+
+.container-fluid{
+  padding: 7% 15%;
+}
+
 .top-container {
   background-image: url("../images/backgroundForest.png");
   background-repeat: repeat-x;
-  background-size: 150px;
+  background-size: 200px;
   position: relative;
   height: 150px;
 
