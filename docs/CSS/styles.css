@@ -6,9 +6,9 @@ body {
 }
 
 h1 {
-  font-size: 4rem;
+  font-size: 3rem;
   margin: 0px auto 0 auto;
-  font-family: 'Nanum Pen Script', cursive;
+  font-family: 'Jost', sans-serif;
 }
 
 h2 {
@@ -17,9 +17,9 @@ h2 {
 }
 
 .top-container {
-  background-image: url("../images/backgroundForest.png");
+  background-image: url("../images/planets.jpg");
   background-repeat: repeat-x;
-  background-size: 200px;
+  background-size: 100%;
   position: relative;
   height: 150px;
 
